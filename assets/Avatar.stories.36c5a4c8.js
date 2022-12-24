@@ -1,0 +1,2 @@
+import{A as t}from"./index.c70c1baa.js";import"./index.ebe7c901.js";import"./iframe.eef00d0f.js";import"./index.bfba87d6.js";import"./jsx-runtime.ace7e594.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/rafelis1997.png",alt:"Rafael Almeida"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.36c5a4c8.js.map
